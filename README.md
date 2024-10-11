@@ -27,7 +27,7 @@ $host = "https://YOURWEBSITE.com/PATH/FOLDERNAME";
 
 
 
-Example for index.php:
+Example For index.php:
 
 // Before editing (line 21):
 $settings = ['logger'=>['logger'=>0],'app_info'=> ['api_id' => YOUR_APIID, 'api_hash' => 'YOUR_API_HASH'];
